@@ -19,10 +19,11 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
+head-style {
     color: #333;
     margin-bottom: 30px;
     text-align: center;
+    font-family: "AlexBrush", cursive;
 }
 
 .form-group {
