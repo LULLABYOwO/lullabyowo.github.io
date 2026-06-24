@@ -24,6 +24,7 @@ body {
     margin-bottom: 30px;
     text-align: center;
     font-family: "AlexBrush", cursive;
+    user-select: none;
 }
 
 .form-group {
