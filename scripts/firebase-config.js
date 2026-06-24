@@ -20,3 +20,16 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
+
+/*
+npm install -g firebase-tools
+
+Sign in to Google
+firebase login
+
+Initiate your project - Run this command from your app's root directory:
+firebase init
+
+When you're ready, deploy your web app, put your static files (e.g., HTML, CSS, JS) in your app's deploy directory (the default is "public"). Then, run this command from your app's root directory:
+firebase deploy
+*/
